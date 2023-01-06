@@ -14,8 +14,6 @@
 
 __version__ = '2.0.0'  # Maybe dev is better
 
-from . import data
-from . import datasets
 from . import transformers
 from . import utils
 
