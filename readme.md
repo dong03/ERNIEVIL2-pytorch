@@ -25,7 +25,7 @@
 ## Requirements
 - ```pip install -r requirements.txt```
 - Follow requirements in [official repo](https://github.com/PaddlePaddle/ERNIE/tree/ernie-kit-open-v1.0/Research/ERNIE-ViL2).
-- download paddle & torch ckpt from [BaiduYun](链接：https://pan.baidu.com/s/1fqt51Gisra6Rqk9OCC0ovQ?pwd=kaxr).
+- download paddle & torch ckpt from [BaiduYun](https://pan.baidu.com/s/1fqt51Gisra6Rqk9OCC0ovQ?pwd=kaxr).
 
 ## Evaluate
 **To conduct cross-modal similarity computation,** 
