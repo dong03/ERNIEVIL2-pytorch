@@ -23,7 +23,7 @@
 
 
 ## Requirements
-- ```pip install transformers, torch```
+- ```pip install -r requirements.txt```
 - Follow requirements in [official repo](https://github.com/PaddlePaddle/ERNIE/tree/ernie-kit-open-v1.0/Research/ERNIE-ViL2).
 - download paddle & torch ckpt from [BaiduYun](链接：https://pan.baidu.com/s/1fqt51Gisra6Rqk9OCC0ovQ?pwd=kaxr).
 
@@ -48,10 +48,8 @@ You will get the output:
 
 ```output
 ### pytorch result
-visual_output:  [[-0.25474143 -0.72782516  0.02674462  0.48610407  1.4485253   0.5175752
-   1.0823581   0.3140268   0.32782146  0.4190097 ]]
-text_output:  [[ 0.10204837 -0.5075943  -0.05125085  0.22701152  0.5774069  -0.54781747
-  -0.1122973   0.46482086  0.2952882   0.1963322 ]]
+visual_output:  [[-0.25474143 -0.72782516  0.02674462  0.48610407  1.4485253   0.5175752  1.0823581   0.3140268   0.32782146  0.4190097 ]]
+text_output:  [[ 0.10204837 -0.5075943  -0.05125085  0.22701152  0.5774069  -0.54781747  -0.1122973   0.46482086  0.2952882   0.1963322 ]]
 
 ### paddle result
 visual_output: [[-0.25474280, -0.72782505,  0.02674395,  0.48610494,  1.44852710, 0.51757193,  1.08235860,  0.31402659,  0.32782283,  0.41901165]]
