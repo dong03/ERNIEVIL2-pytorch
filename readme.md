@@ -1,4 +1,4 @@
-<h1 align="center">ERNIEVIL2-Pytorch</h1>
+<h1 align="center">ERNIEVIL2-pytorch</h1>
 
 <p align="center">This project is to convert ERNIE-VIL2 from paddlepaddle to pytorch format.</p>
 
@@ -81,13 +81,13 @@ If you want to convert model on your own,
 If you use this work in a scientific publication, I would appreciate that you can also cite the following BibTex entries:
 
 ```latex
-@misc{dong03@ERNIEVIL2-Pytorch,
-  title={ERNIEVIL2-Pytorch},
+@misc{dong03@ERNIEVIL2-pytorch,
+  title={ERNIEVIL2-pytorch},
   author={Chengbo Dong},
-  howpublished={\url{https://github.com/nghuyong/ERNIE-Pytorch}},
+  howpublished={\url{https://github.com/dong03/ERNIEVIL2-pytorch}},
   year={2023}
 }
 ```
 
 (or at least 
-```\footnote{\url{http}}``` 😆
+```\footnote{\url{https://github.com/dong03/ERNIEVIL2-pytorch}}``` 😆
