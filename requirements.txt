@@ -1,0 +1,9 @@
+attrdict
+multiprocess
+numpy
+PyYAML==5.3.1
+six
+collections
+tabulate
+transformers
+torch
