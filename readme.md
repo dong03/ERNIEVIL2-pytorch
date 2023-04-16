@@ -72,7 +72,7 @@ I rewrite the paddle version of VIT as it's quite difference wth huggingface's. 
 ### **Do it yourself**
 If you want to convert model on your own, 
 
-1. download paddle version [checkpoint](http://bj.bcebos.com/wenxin-models/ERNIE_VIL2_BASE_ViT.pdparams)
+1. download paddle version [checkpoint](http://bj.bcebos.com/wenxin-models/OPEN_ERNIE_VIL2_BASE_ViT.pdparams)
 2. ```python convert.py```
 
 
